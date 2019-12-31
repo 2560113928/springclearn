@@ -5,7 +5,7 @@ import com.demo.springclearn.handler.service.ServiceB;
 import org.junit.jupiter.api.Test;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-public class handlerTest {
+public class HandlerTest {
 
     private static final String CONTEXT_HANDLER_PATH = "context-handler.xml";
 
